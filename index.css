@@ -1,0 +1,57 @@
+.navbar-brand h1 {  font-family: 'Montserrat-Black, sans-serif';  font-size: 4rem;  line-height: 1.5;  font-weight: 700;}
+#navbar{
+    background-color:rgb(118, 17, 34);
+    width: 100%;
+}
+.image-responsive{
+    background-image: url(images/giphy.gif);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content-home{
+    padding:15% 0 35% 10%;
+}
+/* #courses{
+  
+} */
+
+
+
+
+.row-edit{
+    background-image: url(images/cllg_image_home.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    margin:0;
+    z-index:2;
+    background-color:rgb(206, 204, 204);
+    padding: 10%;
+    text-align: center;
+}
+.col-edit{
+
+    border: 1px solid ;
+    border-radius: 1rem;
+    margin: 0% 3%;
+    padding:7% 4% 0%;
+    line-height:1.5rem;
+}
+.col-edit p{
+    color:#8f8f8f;
+    font-family: "Helvetica Neue",Helvetica,Arial
+}
+.logo{
+
+    padding:30px;
+
+
+}
+.logo:hover{
+     color:rgb(255, 140, 0);
+     padding-bottom:20px;
+     transition:0.5s;
+}
